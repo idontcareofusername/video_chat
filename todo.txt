@@ -1,0 +1,2 @@
+1. 2
+2. create new meet/ join with meeting id and password
